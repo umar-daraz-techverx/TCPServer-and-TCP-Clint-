@@ -1,0 +1,9 @@
+C:\Users\UmerDraz\source\repos\TCP\TCP\bin\Debug\TCP.exe.config
+C:\Users\UmerDraz\source\repos\TCP\TCP\bin\Debug\TCP.exe
+C:\Users\UmerDraz\source\repos\TCP\TCP\bin\Debug\TCP.pdb
+C:\Users\UmerDraz\source\repos\TCP\TCP\bin\Debug\SimpleTCP.dll
+C:\Users\UmerDraz\source\repos\TCP\TCP\obj\Debug\TCP.csprojAssemblyReference.cache
+C:\Users\UmerDraz\source\repos\TCP\TCP\obj\Debug\TCP.csproj.CoreCompileInputs.cache
+C:\Users\UmerDraz\source\repos\TCP\TCP\obj\Debug\TCP.csproj.CopyComplete
+C:\Users\UmerDraz\source\repos\TCP\TCP\obj\Debug\TCP.exe
+C:\Users\UmerDraz\source\repos\TCP\TCP\obj\Debug\TCP.pdb
