@@ -1,0 +1,7 @@
+C:\Users\UmerDraz\source\repos\TCP\DP\obj\Debug\UDPServer.csprojAssemblyReference.cache
+C:\Users\UmerDraz\source\repos\TCP\DP\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+C:\Users\UmerDraz\source\repos\TCP\DP\obj\Debug\DP.exe
+C:\Users\UmerDraz\source\repos\TCP\DP\obj\Debug\DP.pdb
+C:\Users\UmerDraz\source\repos\TCP\DP\bin\Debug\DP.exe.config
+C:\Users\UmerDraz\source\repos\TCP\DP\bin\Debug\DP.exe
+C:\Users\UmerDraz\source\repos\TCP\DP\bin\Debug\DP.pdb

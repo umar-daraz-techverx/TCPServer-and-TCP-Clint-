@@ -1,0 +1,7 @@
+C:\Users\UmerDraz\source\repos\TCP\UDPClint\bin\Debug\UDPClint.exe.config
+C:\Users\UmerDraz\source\repos\TCP\UDPClint\bin\Debug\UDPClint.exe
+C:\Users\UmerDraz\source\repos\TCP\UDPClint\bin\Debug\UDPClint.pdb
+C:\Users\UmerDraz\source\repos\TCP\UDPClint\obj\Debug\UDPClint.csprojAssemblyReference.cache
+C:\Users\UmerDraz\source\repos\TCP\UDPClint\obj\Debug\UDPClint.csproj.CoreCompileInputs.cache
+C:\Users\UmerDraz\source\repos\TCP\UDPClint\obj\Debug\UDPClint.exe
+C:\Users\UmerDraz\source\repos\TCP\UDPClint\obj\Debug\UDPClint.pdb
